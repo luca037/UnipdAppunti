@@ -42,8 +42,8 @@ sono in inglese.
 | Basi di dati 1                                   |   latex     |
 | Fondamenti di elettronica                        |   latex     |
 | Fondamenti di telecomunicazioni                  |   goodnotes |
-| Ingelligenza artificiale                         |   latex     |
-| Modelli e software per l'ottimizazzione discreta |   latex     |
+| Intelligenza artificiale                         |   latex     |
+| Modelli e software per l'ottimizzazione discreta |   latex     |
 | Reti di calcolatori 1                            |   latex     |
 
 ---
