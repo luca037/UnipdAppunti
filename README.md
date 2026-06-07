@@ -69,11 +69,9 @@ sono in inglese.
 | Intelligent Robotics                             |   latex     |
 | Reinforcement Learning                           |   latex     |
 | Robotics and Control 2                           |   goodnotes |
-| Natural Language Processing    <- TODO*          |   latex     |
+| Natural Language Processing                      |   latex     |
 
 </div>
-
-*: todo this semester
 
 ---
 
