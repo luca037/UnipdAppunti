@@ -1,12 +1,69 @@
+![](https://img.shields.io/badge/Courses-30-blue)
+![](https://img.shields.io/badge/Format-LaTeX%20%7C%20GoodNotes-orange)
+![](https://img.shields.io/badge/Language-Italian%20%7C%20English-green)
+
 # UnipdAppunti
 
 In questa repository si trovano i pdf con gli appunti di tutti i corsi che
 ho seguito. Gli appunti della triennale sono in italiano, quelli della magistrale
 sono in inglese.
 
-<div align="center">
+---
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'mainBkg': '#FFFFFF',
+    'lineColor': '#003576',
+    'nodeBkg': '#003576',
+    'nodeTextColor': '#FFFFFF',
+    'clusterBkg': '#F4F4F4',
+    'clusterInvertBkg': '#FFFFFF'
+  }
+}}%%
+mindmap
+  root((<b>UnipdAppunti</b>))
+    <b>Matematica, Fisica e<br>Ottimizzazione</b>
+      Analisi matematica 1
+      Algebra lineare e geometria
+      Fisica generale 1
+      Fondamenti di analisi matematica e probabilità
+      Elementi di fisica 2
+      Modelli e software per l'ottimizazzione discreta
+      Operations research 1
+    <b>Informatica Core</b>
+      Architettura degli elaboratori
+      Dati e algoritmi
+      Laboratorio di programmazione
+      Sistemi operativi
+      Basi di dati 1
+      Reti di calcolatori 1
+      Automata language and computation
+    <b>Ingegneria, Elettronica<br>e Controlli</b>
+      Fondamenti di controlli automatici
+      Teoria dei circuiti
+      Elementi di ingegneria del software
+      Algoritmi per l'ingegneria
+      Fondamenti di elettronica
+      Fondamenti di telecomunicazioni
+    <b>Intelligenza Artificiale<br>e Robotica</b>
+      Ingelligenza artificiale
+      Artificial intelligence
+      Computer vision
+      Machine learning
+      Deep Learning
+      Robotics and Control 1
+      Intelligent Robotics
+      Reinforcement Learning
+      Robotics and Control 2
+      Natural Language Processing
+```
 
 ---
+
+<div align="center">
+
 
 **Primo anno (2021/2022)**
 
@@ -16,6 +73,7 @@ sono in inglese.
 | Algebra lineare e geometria    |   latex       |
 | Architettura degli elaboratori |   latex       |
 | Fisica generale 1              |   goodnotes   |
+| Fondamenti di informatica      |   _Missing_   |
 
 ---
 
