@@ -1,6 +1,13 @@
+
+
 ![](https://img.shields.io/badge/Courses-30-blue)
 ![](https://img.shields.io/badge/Format-LaTeX%20%7C%20GoodNotes-orange)
 ![](https://img.shields.io/badge/Language-Italian%20%7C%20English-green)
+
+<div align="center">
+<img width="256" height="256" alt="logo_notes" src="https://github.com/user-attachments/assets/be08fe76-b4d4-43ee-8bb2-9240e2fe9077" />
+</div>
+
 
 # UnipdAppunti
 
