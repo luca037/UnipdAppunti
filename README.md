@@ -6,7 +6,9 @@
 
 In questa repository si trovano i pdf con gli appunti di tutti i corsi che
 ho seguito. Gli appunti della triennale sono in italiano, quelli della magistrale
-sono in inglese.
+sono in inglese. 
+
+Il codice sorgente degli appunti scritti in LaTeX si trova al seguente link -> [luca037/UnipdAppunti-LaTeX](https://github.com/luca037/UnipdAppunti-LaTeX).
 
 ---
 
